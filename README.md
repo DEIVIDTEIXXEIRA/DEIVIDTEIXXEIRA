@@ -5,7 +5,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](deividteixeira.go@gmail.com)
 
 
-![Teixxeira GitHub stats](https://github-readme-stats.vercel.app/api?username=DEIVIDTEIXXEIRA&show_icons=true&theme=dracula)
+![Teixxeira GitHub stats](https://github-readme-stats.vercel.app/api?username=DEIVIDTEIXXEIRA&show_icons=true&theme=dracula)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DEIVIDTEIXXEIRA&hide_progress=true)
 
 ## Tecnologias que utilizo no meu dia!
 
@@ -16,7 +16,7 @@
 <img align="center" alt ="javascript"src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
 </div><br/>
 
-Apaixonado pela arte da codar, embarco em uma jornada contínua de aprendizado em rumo a maestria na programação.
+Apaixonado pela arte da codar, embarquei em uma jornada contínua de aprendizado em rumo a maestria na programação.
 
 
 
