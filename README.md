@@ -16,7 +16,7 @@
 <img align="center" alt ="javascript"src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
 </div><br/>
 
-Apaixonado pela arte da codar, embarquei em uma jornada contínua de aprendizado em rumo a maestria na programação.
+
 
 
 
