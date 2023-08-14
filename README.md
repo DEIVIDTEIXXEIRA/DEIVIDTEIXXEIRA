@@ -2,7 +2,7 @@
 
 ### Olá! Eu sou o Deivid Teixeira ✌️
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([deividteixeira.go@gmail.com](https://www.linkedin.com/in/deivid-teixeira-36952a257/))
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([[deividteixeira.go@gmail.com](https://www.linkedin.com/in/deivid-teixeira-36952a257/)](https://www.linkedin.com/in/deivid-teixeira-36952a257/))
 
 
 ![Teixxeira GitHub stats](https://github-readme-stats.vercel.app/api?username=DEIVIDTEIXXEIRA&show_icons=true&theme=dracula)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DEIVIDTEIXXEIRA&hide_progress=true)
