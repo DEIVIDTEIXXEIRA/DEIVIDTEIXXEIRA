@@ -1,6 +1,6 @@
 
 
-### Olá! Eu sou o Deivid Teixeira ✌️
+### Olá! Eu sou o Deivid Teixeira!
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deivid-teixeira-36952a257/)
 
