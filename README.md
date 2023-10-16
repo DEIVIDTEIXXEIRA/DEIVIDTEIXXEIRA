@@ -4,7 +4,7 @@
 
 Sou desenvolvedor Backend dedicado a desenvolver aplicações de alta qualidade em Go. Estou focado em entregar bons resultados e aprender cada vez mais. 
 
-👨‍💻 Atualmente sou supervisor responsável por liderar uma equipe de 6 funcionários. Estou implementando um projeto em GO de organicação de tarefas para meus funcionarios.
+👨‍💻 Atualmente sou supervisor responsável por liderar uma equipe de 6 funcionários. Estou implementando um projeto em GO de organização de tarefas para meus funcionarios.
 
 👊 Estou em busca de novos desafios, acredito que cada projeto é uma oportunidade para expandir meu conhecimento como desenvolvedor.
 
