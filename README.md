@@ -8,7 +8,7 @@ Sou desenvolvedor Backend dedicado a desenvolver aplicações de alta qualidade 
 
 👊 Estou em busca de novos desafios, acredito que cada projeto é uma oportunidade para expandir meu conhecimento como desenvolvedor.
 
-📚 Estou sempre em busca de melhorar as minhas habilidades e a base do meu conhecimento, atualmente estou focado em aprimorar meus conhecimentos em Docker. 
+📚 Estou sempre em busca de melhorar as minhas habilidades e a base do meu conhecimento, atualmente estou focado em aprimorar meus conhecimentos em Docker e Apache Kafka. 
 
 ## 📬 Entre em contato comigo: 
 
