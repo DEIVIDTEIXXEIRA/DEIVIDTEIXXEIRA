@@ -4,7 +4,7 @@
 
 Sou desenvolvedor Backend dedicado a desenvolver aplicações de alta qualidade em Go. Estou focado em entregar bons resultados e aprender cada vez mais. 
 
-👨‍💻 Atualmente, sou coordenador em um dos empreendimentos da principal empresa de administração de estacionamentos mundial. Sou responsável por liderar uma equipe de 25 funcionários em um posto que fatura 7 dígitos. Estou em um processo de transição de carreira no qual utilizo todo o meu tempo livre na construção de projetos pessoais e no aprimoramento das minhas habilidades técnicas. 
+👨‍💻 Atualmente, sou desenvolvedor junior em uma startup de ESG. 
 
 👊 Estou em busca de novos desafios, acredito que cada projeto é uma oportunidade para expandir meu conhecimento como desenvolvedor.
 
