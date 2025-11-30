@@ -4,11 +4,11 @@
 
 Sou desenvolvedor Backend dedicado a desenvolver aplicações de alta qualidade em Go. Estou focado em entregar bons resultados e aprender cada vez mais. 
 
-👨‍💻 Atualmente, sou desenvolvedor junior em uma startup de ESG. 
+👨‍💻 Atualmente, sou desenvolvedor em uma startup de ESG. 
 
 👊 Estou em busca de novos desafios, acredito que cada projeto é uma oportunidade para expandir meu conhecimento como desenvolvedor.
 
-📚 Estou sempre em busca de melhorar as minhas habilidades e a base do meu conhecimento, atualmente estou focado em aprimorar meus conhecimentos em Docker e Apache Kafka. 
+📚 Estou sempre em busca de melhorar as minhas habilidades e a base do meu conhecimento. 
 
 ## 📬 Entre em contato comigo: 
 
